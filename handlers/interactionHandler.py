@@ -43,8 +43,8 @@ class interactionHandler:
         self.allowed_thread_channel_names = ["diamonds", "spades", "hearts", "clubs"]
         self.allowed_thread_channel_ids = [1158283680242995242, 1158283988201373758, 1158284223900299345, 1158284387490725978]
 
-        self.admin_user_ids = [957451091748986972, 277933921315061761, 125751325760684033, 1146646164838555699, 1144166968979628072, 791893551684255764, 383699273461792769, 209985174081896450]
-        self.admin_usernames = ["seinu", "tommy.3", "lombardia","dairinyn", "kanrisha", "1kozo", "goldenape", "rhymar"]
+        self.admin_user_ids = [957451091748986972, 277933921315061761, 125751325760684033, 1146646164838555699, 1144166968979628072, 791893551684255764, 383699273461792769, 209985174081896450, 1027431801729327164]
+        self.admin_usernames = ["seinu", "tommy.3", "lombardia","dairinyn", "kanrisha", "1kozo", "goldenape", "rhymar", "sura"]
 
         self.owner_id = 957451091748986972
 
